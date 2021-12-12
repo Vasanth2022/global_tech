@@ -77,3 +77,14 @@ public class Sample {
 	}
 
 }
+
+
+
+
+
+
+#prasanth modifying the code in local repository java to python
+from python pdf.py prog import bitwise
+def add(a,b):
+    print(a+b)
+add(10,20)
